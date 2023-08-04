@@ -1,6 +1,5 @@
 import React from "react";
-import { useState } from "react";
-import jsonData from "./data.json";
+
 
 
 const Card = ({ cardData, }) => {
@@ -50,3 +49,5 @@ const Card = ({ cardData, }) => {
 };
 
 export default Card;
+
+
