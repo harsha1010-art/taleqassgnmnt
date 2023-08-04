@@ -2,11 +2,15 @@ import React from "react";
 import Banner from "./Banner";
 import Section from "./Section";
 import jsonData from "./data.json";
+import Slider from "react-slick";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 import Card from "./Card";
 import "./App.css"
 // Import the provided JSON data
 
 const App = () => {
+  
   return (
     <div className="dashboard">
       <h1>Assignment</h1>

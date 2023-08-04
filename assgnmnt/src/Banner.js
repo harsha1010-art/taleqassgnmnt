@@ -1,7 +1,11 @@
 import React from "react";
 
 const Banner = ({ bannerData }) => {
+
   return (
+
+
+
     <div className="banner">
       <h2>{bannerData.text}</h2>
       {bannerData.button && (
@@ -14,6 +18,7 @@ const Banner = ({ bannerData }) => {
 
       )}
     </div>
+
   );
 };
 
