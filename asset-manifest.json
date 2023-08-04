@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/taleqassgnmnt/static/css/main.a8e832aa.css",
+    "main.js": "/taleqassgnmnt/static/js/main.1fa26df8.js",
+    "static/js/787.9aadd157.chunk.js": "/taleqassgnmnt/static/js/787.9aadd157.chunk.js",
+    "index.html": "/taleqassgnmnt/index.html",
+    "main.a8e832aa.css.map": "/taleqassgnmnt/static/css/main.a8e832aa.css.map",
+    "main.1fa26df8.js.map": "/taleqassgnmnt/static/js/main.1fa26df8.js.map",
+    "787.9aadd157.chunk.js.map": "/taleqassgnmnt/static/js/787.9aadd157.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8e832aa.css",
+    "static/js/main.1fa26df8.js"
+  ]
+}
