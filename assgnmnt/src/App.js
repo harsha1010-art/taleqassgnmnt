@@ -9,6 +9,7 @@ import "./App.css"
 const App = () => {
   return (
     <div className="dashboard">
+      <h1>Assignment</h1>
       <div className="banners">
         {jsonData.bannerData.map((banner) => (
           <Banner key={banner.id} bannerData={banner} />
